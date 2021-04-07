@@ -86,3 +86,27 @@
   font-size: 13pt;
   color: rgb(53, 4, 133);
 }
+
+.jisoo-img {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.jisoo-facts {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.jisoo-accounts {
+  flex-direction: column;
+  margin-bottom: 70px;
+}
+
+.jisoo-accounts ul li a {
+  text-decoration: none;
+  font-size: 13pt;
+  color: rgb(53, 4, 133);
+}
