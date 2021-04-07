@@ -110,3 +110,27 @@
   font-size: 13pt;
   color: rgb(53, 4, 133);
 }
+
+.jennie-img {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.jennie-facts {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.jennie-accounts {
+  flex-direction: column;
+  margin-bottom: 70px;
+}
+
+.jennie-accounts ul li a {
+  text-decoration: none;
+  font-size: 13pt;
+  color: rgb(53, 4, 133);
+}
