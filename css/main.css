@@ -134,3 +134,27 @@
   font-size: 13pt;
   color: rgb(53, 4, 133);
 }
+
+.lisa-img {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.lisa-facts {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.lisa-accounts {
+  flex-direction: column;
+  margin-bottom: 70px;
+}
+
+.lisa-accounts ul li a {
+  text-decoration: none;
+  font-size: 13pt;
+  color: rgb(53, 4, 133);
+}
