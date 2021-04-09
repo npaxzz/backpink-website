@@ -29,6 +29,12 @@
   justify-content: space-evenly;
 }
 
+.textunderimage {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
 .story-box {
   display: flex;
   flex-direction: column;
