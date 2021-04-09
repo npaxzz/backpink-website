@@ -44,12 +44,12 @@
 
 .story-box ul li a {
   text-decoration: none;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   color: rgb(53, 4, 133);
 }
 
 .story-box p {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 .member-box {
@@ -65,7 +65,7 @@
 
 .member-box ul li a {
   text-decoration: none;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   color: rgb(53, 4, 133);
 }
 
@@ -89,6 +89,6 @@
 
 .accounts ul li a {
   text-decoration: none;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   color: rgb(53, 4, 133);
 }
