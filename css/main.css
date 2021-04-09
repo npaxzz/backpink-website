@@ -12,14 +12,14 @@
   display: flex;
   flex-direction: row;
   list-style-type: none;
-  width: 700px;
+  width: 1000px;
   justify-content: space-between;
   align-self: center;
 }
 
 .header-box ul li a {
   text-decoration: none;
-  font-size: 16pt;
+  font-size: 1.5rem;
   color: rgb(155, 18, 18);
 }
 
@@ -44,12 +44,12 @@
 
 .story-box ul li a {
   text-decoration: none;
-  font-size: 13pt;
+  font-size: 1.5rem;
   color: rgb(53, 4, 133);
 }
 
 .story-box p {
-  font-size: 13pt;
+  font-size: 1.5rem;
 }
 
 .member-box {
@@ -59,13 +59,13 @@
 }
 
 .member-box p {
-  font-size: 13pt;
+  font-size: 1.5rem;
   color: rgb(255, 99, 71);
 }
 
 .member-box ul li a {
   text-decoration: none;
-  font-size: 13pt;
+  font-size: 1.5rem;
   color: rgb(53, 4, 133);
 }
 
@@ -89,6 +89,6 @@
 
 .accounts ul li a {
   text-decoration: none;
-  font-size: 13pt;
+  font-size: 1.5rem;
   color: rgb(53, 4, 133);
 }
