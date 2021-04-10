@@ -2,25 +2,29 @@
   text-align: center;
 }
 
+div.scrollmenu {
+  background-color: rgb(155, 18, 18);
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: #777;
+}
+
 .header-box {
   display: flex;
   flex-direction: column;
+  margin-top: 30px;
   margin-bottom: 50px;
-}
-
-.header-box ul {
-  display: flex;
-  flex-direction: row;
-  list-style-type: none;
-  width: 1000px;
-  justify-content: space-between;
-  align-self: center;
-}
-
-.header-box ul li a {
-  text-decoration: none;
-  font-size: 2rem;
-  color: rgb(155, 18, 18);
+  text-align: center;
 }
 
 .gallery {
