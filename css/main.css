@@ -66,6 +66,7 @@ body {
 
 .gallery {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-evenly;
   max-width: 100%;
@@ -120,6 +121,7 @@ body {
 
 .img {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-evenly;
   max-width: 100%;
