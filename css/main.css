@@ -140,3 +140,7 @@ body {
   font-size: 1.2rem;
   color: rgb(53, 4, 133);
 }
+
+.like {
+  margin-bottom: 50px;
+}

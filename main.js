@@ -6,3 +6,13 @@ function toggleMenuBar() {
     x.className = "navbar";
   }
 }
+
+window.addEventListener("load", (event) => {
+  let like = 0;
+  let output = document.getElementById("output");
+
+  document.getElementById("like").addEventListener("click", (event) => {
+    like++;
+    output.innerHTML = `<div> ${like} like </div>`;
+  });
+});
